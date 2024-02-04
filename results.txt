@@ -1,0 +1,231 @@
+[caa-fingerprint] [dns] [info] accesadistance.etoro.com
+[caa-fingerprint] [dns] [info] 1fdtopcovid19.etoro.com
+[caa-fingerprint] [dns] [info] a43.etoro.com
+[caa-fingerprint] [dns] [info] 60partners.etoro.com
+[caa-fingerprint] [dns] [info] 2ww.etoro.com
+[caa-fingerprint] [dns] [info] 427.fe-nx-etoro.etoro.com
+[caa-fingerprint] [dns] [info] 7-mtopcovid19.etoro.com
+[caa-fingerprint] [dns] [info] 271666.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] 212.227.15.154.printer5.etoro.com
+[caa-fingerprint] [dns] [info] 265.fast.hsbcin.etoro.com
+[caa-fingerprint] [dns] [info] 2fopenbook.etoro.com
+[caa-fingerprint] [dns] [info] 1.etoro.com
+[caa-fingerprint] [dns] [info] 271696.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] 276.luma.etoro.com
+[caa-fingerprint] [dns] [info] 271878.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] 2fwww.etoro.com
+[caa-fingerprint] [dns] [info] 7ww.etoro.com
+[caa-fingerprint] [dns] [info] 271596.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] 3ww.etoro.com
+[caa-fingerprint] [dns] [info] 007.etoro.com
+[caa-fingerprint] [dns] [info] 7candle.etoro.com
+[caa-fingerprint] [dns] [info] 1www.etoro.com
+[caa-fingerprint] [dns] [info] 2fcontent.etoro.com
+[caa-fingerprint] [dns] [info] 271200.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] 271970.genapicloud.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] accountstat.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] accountstat.int.etoro.com ["www.int.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] agapechristianacademysc.commed.etoro.com
+[caa-fingerprint] [dns] [info] aditlinux.commed.etoro.com
+[caa-fingerprint] [dns] [info] admin.etoro.com
+[caa-fingerprint] [dns] [info] affapi.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] affapi.etoro.com ["etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] accountstat.int.etoro.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] affiliates.etoro.com ["affiliates.etoro.com.edgekey.net"]
+[caa-fingerprint] [dns] [info] akhk.etoro.com
+[caa-fingerprint] [dns] [info] akcn.etoro.com
+[caa-fingerprint] [dns] [info] aggregator.etoro.com
+[caa-fingerprint] [dns] [info] affiliates.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] accountstat.etoro.com ["etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] antivirus-2018.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] arrow.etoro.com ["il-mag-nodes.trafficmanager.net"]
+[caa-fingerprint] [dns] [info] amslawgrp.comwww.etoro.com
+[caa-fingerprint] [dns] [info] applications.dgfip.finances.gouv.frcandle.etoro.com
+[caa-fingerprint] [dns] [info] antivirus.etoro.com
+[caa-fingerprint] [dns] [info] alerts.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] api.etoro.com ["etoro.azure-api.net"]
+[caa-fingerprint] [dns] [info] apptest.etoro.com
+[caa-fingerprint] [dns] [info] antivirus-38b65.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] apptest.etoro.com ["etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] antivirus-security-free.br.etoro.com
+[dns-saas-service-detection] [dns] [info] aggregator.etoro.com ["www.etoro.com"]
+[caa-fingerprint] [dns] [info] amir-antivirus.etoro.com
+[caa-fingerprint] [dns] [info] antivirus-extension.etoro.com
+[caa-fingerprint] [dns] [info] aroundthedistance.etoro.com
+[caa-fingerprint] [dns] [info] api-portal.etoro.com
+[caa-fingerprint] [dns] [info] api.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] akhk.etoro.com ["etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] akuariummaskoki.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] api-portal.etoro.com ["etoro.portal.azure-api.net"]
+[caa-fingerprint] [dns] [info] arrow.etoro.com
+[caa-fingerprint] [dns] [info] arrowmask8.etoro.com
+[caa-fingerprint] [dns] [info] arrowmask5.etoro.com
+[caa-fingerprint] [dns] [info] asmodeo.etoro.com
+[caa-fingerprint] [dns] [info] artteam.promed.etoro.com
+[caa-fingerprint] [dns] [info] assets-prod-005.dev.etoro.com
+[caa-fingerprint] [dns] [info] asdf.etoro.com
+[caa-fingerprint] [dns] [info] artteam.rumed.etoro.com
+[caa-fingerprint] [dns] [info] assets-prod-006.etoro.com
+[caa-fingerprint] [dns] [info] artners.etoro.com
+[caa-fingerprint] [dns] [info] assets-cdn-stg-006.dev.etoro.com
+[caa-fingerprint] [dns] [info] assets-cdn-int-003.dev.etoro.com
+[caa-fingerprint] [dns] [info] assets-prod-005.etoro.com
+[caa-fingerprint] [dns] [info] aww.etoro.com
+[caa-fingerprint] [dns] [info] athreyahospital.inmed.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-stg-006.dev.etoro.com ["www.dev.etoro.com.cdn.cloudflare.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets.stg.etoro.com ["www.stg.etoro.com.cdn.cloudflare.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-prod-005.etoro.com ["www.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] assets-prod-007.etoro.com
+[caa-fingerprint] [dns] [info] atsbookkeeping.commed.etoro.com
+[caa-fingerprint] [dns] [info] assets-prod-007.dev.etoro.com
+[caa-fingerprint] [dns] [info] assets.preprod.etoro.com
+[caa-fingerprint] [dns] [info] associazionegranelloinsieme.orgmed.etoro.com
+[caa-fingerprint] [dns] [info] assets-stg-005.dev.etoro.com
+[caa-fingerprint] [dns] [info] assets.int.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-prod-006.etoro.com ["www.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] atl-t.rumed.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] assets-cdn-stg-006.dev.etoro.com ["assets-stg-006.azureedge.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-stg-007.dev.etoro.com ["www.dev.etoro.com.cdn.cloudflare.net"]
+[dns-saas-service-detection:azure] [dns] [info] assets-cdn-int-003.dev.etoro.com ["assets-int-003.azureedge.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets.int.etoro.com ["www.int.etoro.com.cdn.cloudflare.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-prod-007.etoro.com ["www.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] assets.stg.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-prod-007.dev.etoro.com ["www.dev.etoro.com.cdn.cloudflare.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] auth.stg.etoro.com ["www.stg.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] auth.stg.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-stg-005.dev.etoro.com ["www.dev.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] assets-stg-006.dev.etoro.com
+[caa-fingerprint] [dns] [info] avira-free-antivirus.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] assets-prod-005.dev.etoro.com ["www.dev.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] assets-stg-007.dev.etoro.com
+[caa-fingerprint] [dns] [info] azithromycin.etoro.com
+[caa-fingerprint] [dns] [info] bayanmaskara.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] billing-pci.etoro.com ["etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] blockdmask.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] bitgowebhook.wallet.etoro.com ["wallet.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] billing-pci.int.etoro.com
+[caa-fingerprint] [dns] [info] bgkgvs.inmed.etoro.com
+[caa-fingerprint] [dns] [info] basics-moving-averages.aspxwww.etoro.com
+[caa-fingerprint] [dns] [info] bf.etoro.com
+[caa-fingerprint] [dns] [info] billing-pci.etoro.com
+[caa-fingerprint] [dns] [info] bitgowebhook.wallet.etoro.com
+[caa-fingerprint] [dns] [info] blockpage.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] billing-pci.int.etoro.com ["www.int.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] blockpage.stg.etoro.com
+[caa-fingerprint] [dns] [info] beta.etoro.com
+[caa-fingerprint] [dns] [info] blog.etoro.com
+[caa-fingerprint] [dns] [info] calendrier-365.frcandle.etoro.com
+[caa-fingerprint] [dns] [info] callbacks-temp.genapicloud.compages.etoro.com
+[caa-fingerprint] [dns] [info] blogcatolicovirgenmaria.etoro.com
+[caa-fingerprint] [dns] [info] candles.int.etoro.com
+[caa-fingerprint] [dns] [info] buyingpeers.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] candle.etoro.com
+[caa-fingerprint] [dns] [info] bokepcorona.etoro.com
+[caa-fingerprint] [dns] [info] blogs.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] candle-src.etoro.com ["prod-candle.trafficmanager.net"]
+[caa-fingerprint] [dns] [info] bullet.etoro.com
+[caa-fingerprint] [dns] [info] br.etoro.com
+[caa-fingerprint] [dns] [info] booking.etoro.com
+[caa-fingerprint] [dns] [info] candle-src.etoro.com
+[mx-fingerprint] [dns] [info] bounce.connect.etoro.com ["10 bounce.s50.exacttarget.com."]
+[caa-fingerprint] [dns] [info] bounce.connect.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] blockpage.etoro.com ["www.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] cashier-src.etoro.com
+[caa-fingerprint] [dns] [info] brptportal.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] blockpage.stg.etoro.com ["www.stg.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] cekvirus.etoro.com
+[caa-fingerprint] [dns] [info] cca.etoro.com
+[caa-fingerprint] [dns] [info] cat.nl.eu.criteo.comcandle.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] candle.etoro.com ["prod-candle.trafficmanager.net"]
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] candles.int.etoro.com ["www.int.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] ccmint.etoro.com
+[caa-fingerprint] [dns] [info] centrocorona.etoro.com
+[caa-fingerprint] [dns] [info] cashier.etoro.com
+[caa-fingerprint] [dns] [info] download.bitdefender.comcandle.etoro.com
+[dns-saas-service-detection] [dns] [info] customersupportapi.etoro.com ["www.etoro.com"]
+[caa-fingerprint] [dns] [info] de.etoro.com
+[caa-fingerprint] [dns] [info] distancecalculator.etoro.com
+[caa-fingerprint] [dns] [info] distancedev-math.etoro.com
+[caa-fingerprint] [dns] [info] dr-web-anti-virus-light-free.br.etoro.com
+[mx-service-detector:Google Apps] [dns] [info] etoro.com
+[mx-fingerprint] [dns] [info] etoro.com ["5 alt2.aspmx.l.google.com.","5 alt1.aspmx.l.google.com.","10 alt3.aspmx.l.google.com.","1 aspmx.l.google.com.","10 alt4.aspmx.l.google.com."]
+[dmarc-detect] [dns] [info] _dmarc.etoro.com ["\"v=DMARC1; p=reject; rua=mailto:905c9455225e834@rep.dmarcanalyzer.com,mailto:dmarc-notify@etoro.com; ruf=mailto:905c9455225e834@for.dmarcanalyzer.com,mailto:dmarc-notify@etoro.com; sp=none; fo=1;\""]
+[caa-fingerprint] [dns] [info] en.etoro.com
+[caa-fingerprint] [dns] [info] fe-nx-etoro-il.etoro.com
+[caa-fingerprint] [dns] [info] gulfcoastrecipes.commed.etoro.com
+[caa-fingerprint] [dns] [info] front.int.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] front.stg.etoro.com ["www.stg.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] hh.etoro.com
+[caa-fingerprint] [dns] [info] il-mag-cellcom.etoro.com
+[caa-fingerprint] [dns] [info] int-walletfront.dev.etoro.com
+[caa-fingerprint] [dns] [info] intra.notaires.frcandle.etoro.com
+[caa-fingerprint] [dns] [info] korona-na-monetach.etoro.com
+[caa-fingerprint] [dns] [info] legendyapovidky.gype.czmed.etoro.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] intaff-portal.dev.etoro.com ["intaff-portal.dev.etoro.com.edgekey.net"]
+[caa-fingerprint] [dns] [info] int.etoro.com
+[caa-fingerprint] [dns] [info] ls-real.int.etoro.com
+[caa-fingerprint] [dns] [info] mascara.etoro.com
+[mx-fingerprint] [dns] [info] mailer.etoro.com ["20 mail6351.mkt6950.com.","10 reply.mkt3767.com.","20 mail3172.mkt3768.com.","20 mail6355.mkt6954.com.","20 mail3171.mkt3767.com."]
+[caa-fingerprint] [dns] [info] maska.etoro.com
+[caa-fingerprint] [dns] [info] maven.etoro.com
+[caa-fingerprint] [dns] [info] monip.orgcandle.etoro.com
+[caa-fingerprint] [dns] [info] newaoivirus.etoro.com
+[caa-fingerprint] [dns] [info] namaskar.etoro.com
+[caa-fingerprint] [dns] [info] no.pages.etoro.com
+[caa-fingerprint] [dns] [info] offlinemode.etoro.com
+[caa-fingerprint] [dns] [info] pages.etoro.com
+[caa-fingerprint] [dns] [info] openbook.etoro.com
+[caa-fingerprint] [dns] [info] parcelaspuconlagotinquilco.clmed.etoro.com
+[caa-fingerprint] [dns] [info] openbookmobile.etoro.com
+[caa-fingerprint] [dns] [info] partners.etoro.com
+[caa-fingerprint] [dns] [info] pop3.etoro.com
+[caa-fingerprint] [dns] [info] push.etoro.com
+[caa-fingerprint] [dns] [info] removevirusmalwares.etoro.com
+[dns-saas-service-detection:azure] [dns] [info] raf-azure.etoro.com ["etoro-raf.trafficmanager.net"]
+[caa-fingerprint] [dns] [info] rdg.etoro.com
+[caa-fingerprint] [dns] [info] registration.etoro.com
+[caa-fingerprint] [dns] [info] search.etoro.com
+[caa-fingerprint] [dns] [info] sm1.etoro.com
+[caa-fingerprint] [dns] [info] shortcut-virus-remover.software.etoro.com
+[caa-fingerprint] [dns] [info] software.etoro.com
+[caa-fingerprint] [dns] [info] slovari.etoro.com
+[caa-fingerprint] [dns] [info] ssw.live.comcandle.etoro.com
+[caa-fingerprint] [dns] [info] stg-money-front-public.dev.etoro.com
+[caa-fingerprint] [dns] [info] stgaff-portal.stg.etoro.com
+[caa-fingerprint] [dns] [info] stg-fiatproviderwebhook.stg.etoro.com
+[caa-fingerprint] [dns] [info] support.etoro.com
+[dns-saas-service-detection] [dns] [info] stg-go.etoro.com ["go.etoro.com.edgekey-staging.net"]
+[caa-fingerprint] [dns] [info] the-mask.etoro.com
+[caa-fingerprint] [dns] [info] tolakviruss.etoro.com
+[dns-saas-service-detection] [dns] [info] tapi-demo.etoro.com ["www.etoro.com"]
+[caa-fingerprint] [dns] [info] test.front.preprod.etoro.com
+[caa-fingerprint] [dns] [info] vaccin-voyage-ghparis10.etoro.com
+[dns-saas-service-detection] [dns] [info] tapi-real.etoro.com ["www.etoro.com"]
+[caa-fingerprint] [dns] [info] uapi-front.etoro.com
+[caa-fingerprint] [dns] [info] uncoveringflorence.etoro.com
+[caa-fingerprint] [dns] [info] view.connect.etoro.com
+[caa-fingerprint] [dns] [info] vaccinerefrigeration.etoro.com
+[caa-fingerprint] [dns] [info] vetcarevets.co.nzmed.etoro.com
+[caa-fingerprint] [dns] [info] w.ww.etoro.com
+[caa-fingerprint] [dns] [info] virus-kpop.etoro.com
+[caa-fingerprint] [dns] [info] vvww.etoro.com
+[caa-fingerprint] [dns] [info] wallet-staging.stg.etoro.com
+[caa-fingerprint] [dns] [info] wew.etoro.com
+[caa-fingerprint] [dns] [info] widgets.etoro.com
+[dns-saas-service-detection:cloudflare-cdn] [dns] [info] wallet.etoro.com ["wallet.etoro.com.cdn.cloudflare.net"]
+[caa-fingerprint] [dns] [info] wwe.etoro.com
+[caa-fingerprint] [dns] [info] www.dev.etoro.com
+[caa-fingerprint] [dns] [info] www.social2.etoro.com
+[caa-fingerprint] [dns] [info] www.google.frcandle.etoro.com
+[caa-fingerprint] [dns] [info] wwwa.etoro.com
+[caa-fingerprint] [dns] [info] xn--07aa6r.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvv-0ycaa.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvvv-pydbb.etoro.com
+[caa-fingerprint] [dns] [info] xn--vv-ccda.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvw-9fdb.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvvv-rydbbb.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvw-7fdb.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvvv-rydb.etoro.com
+[caa-fingerprint] [dns] [info] xn--vvvvw-7fd.etoro.com
+[caa-fingerprint] [dns] [info] xn--ww-k5c.etoro.com
+[caa-fingerprint] [dns] [info] xn--ww-j5c.etoro.com

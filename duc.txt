@@ -1,0 +1,427 @@
+[dns-saas-service-detection] [dns] [info] ac.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] aue-bgonzalez1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-5.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] about.duckduckgo.com ["ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com."]
+[nameserver-fingerprint] [dns] [info] api.duckduckgo.com ["dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net."]
+[txt-fingerprint] [dns] [info] api.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[txt-fingerprint] [dns] [info] ac.duckduckgo.com ["\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\""]
+[dns-saas-service-detection] [dns] [info] avianasanchez.duckduckgo.com ["eun-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] blog.duckduckgo.com ["\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\""]
+[mx-service-detector:Office 365] [dns] [info] chrome.duckduckgo.com
+[mx-fingerprint] [dns] [info] chrome.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] charmston.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] boop.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] daffy.duckduckgo.com
+[caa-fingerprint] [dns] [info] deep.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] devtesting13.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting10.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting20.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting10.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devcpu4.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting21.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting12.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting11.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting6.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting5.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] duckduckbot-9.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting3.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting7.duckduckgo.com
+[caa-fingerprint] [dns] [info] duckduckbot-2.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-abrown1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-bastion1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-dng1-admin.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-dreymendez1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-cbarreiro1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-boezalp1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-garthur1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-ip-6.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-ip-3.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-ibebbington1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-kmanning1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-jkingston1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-madams1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-mingram1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-atennent1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-aispiriants1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-tespach1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-sschirmer1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-davidg1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-ip-2.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-ip-10.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-ip-7.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-mateusz1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-mateusz1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-lmattei1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-lamigo1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-mspiewak1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] ff.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] facebook.duckduckgo.com ["ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com."]
+[dns-saas-service-detection] [dns] [info] euw-viktor1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] facebook.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] ideas.duckduckgo.com ["discussions.zoho.com"]
+[txt-fingerprint] [dns] [info] html.duckduckgo.com ["\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\""]
+[caa-fingerprint] [dns] [info] goodies.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] grison.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] help.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] jenkins.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] html.duckduckgo.com ["letsencrypt.org","digicert.com"]
+[caa-fingerprint] [dns] [info] jkingston.duckduckgo.com
+[caa-fingerprint] [dns] [info] johnm.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] images.duckduckgo.com
+[mx-fingerprint] [dns] [info] images.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] isa.duckduckgo.com
+[txt-fingerprint] [dns] [info] karma.duckduckgo.com ["\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\""]
+[caa-fingerprint] [dns] [info] konrad.duckduckgo.com
+[caa-fingerprint] [dns] [info] ladamski.duckduckgo.com
+[caa-fingerprint] [dns] [info] karma.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] karol.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] konrad.duckduckgo.com ["eun-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] karma.duckduckgo.com
+[mx-fingerprint] [dns] [info] karma.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] lite.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[mx-service-detector:Office 365] [dns] [info] lite.duckduckgo.com
+[mx-fingerprint] [dns] [info] lite.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] lamigo.duckduckgo.com
+[caa-fingerprint] [dns] [info] marc.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] meme.duckduckgo.com
+[mx-fingerprint] [dns] [info] meme.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] news.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] nil.duckduckgo.com
+[caa-fingerprint] [dns] [info] mas.duckduckgo.com
+[txt-fingerprint] [dns] [info] news.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[dns-saas-service-detection] [dns] [info] proxy4.duckduckgo.com ["external-content.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] servo.duckduckgo.com ["caine.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] reports.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] rjain.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] quackdev.duckduckgo.com
+[caa-fingerprint] [dns] [info] redirect.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[mx-service-detector:Office 365] [dns] [info] store.duckduckgo.com
+[mx-fingerprint] [dns] [info] store.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] shop.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] start.duckduckgo.com ["duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] start.duckduckgo.com
+[mx-fingerprint] [dns] [info] start.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[mx-service-detector:Office 365] [dns] [info] traffic.duckduckgo.com
+[mx-fingerprint] [dns] [info] traffic.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[txt-fingerprint] [dns] [info] syntax.duckduckgo.com ["\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\""]
+[caa-fingerprint] [dns] [info] subscriptions-dev.duckduckgo.com
+[txt-fingerprint] [dns] [info] store.duckduckgo.com ["\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\""]
+[txt-fingerprint] [dns] [info] traffic.duckduckgo.com ["\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\""]
+[dns-saas-service-detection] [dns] [info] usc-bhall1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usc-bhall1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-cbelmer1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting11.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting12.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting15.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting16.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting18.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting16.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting26.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devcpu4.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting25.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting20.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting14.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting4.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-dng1-admin.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting27.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting3.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-ip-10.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting2.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting21.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting6.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-greg1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-eric1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-isa1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-mburgert1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-ip-6.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-login.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-jashby1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-marc1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-tim1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-maria1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-npinto1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-ip-2.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-searchtests5.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-searchtests6.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usw-flawrence1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] usw-flawrence1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-tim1.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] watrcoolr.duckduckgo.com
+[mx-fingerprint] [dns] [info] watrcoolr.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] usw-jfrank1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-yegg1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usw-vlad1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] usw-jeffrey1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usw-ip-3.duckduckgo.com
+[caa-fingerprint] [dns] [info] viktor.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-jeffrey1.duckduckgo.com
+[caa-fingerprint] [dns] [info] wiki.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection] [dns] [info] usw-lkruger1.duckduckgo.com ["use-login.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] wiki.duckduckgo.com ["ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net."]
+[google-floc-disabled] [http] [info] https://audio.duckduckgo.com
+[google-floc-disabled] [http] [info] https://audio.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://audio.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://ase-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://aue-ip-1.duckduckgo.com
+[google-floc-disabled] [http] [info] https://ase-ip-4.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://ase-ip-4.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://aue-ip-1.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://aue-ip-1.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://controller.netp.duckduckgo.com
+[missing-csp] [http] [info] https://dbp-staging.duckduckgo.com
+[missing-csp] [http] [info] https://dbp.duckduckgo.com
+[missing-csp] [http] [info] http://autodiscover.mailer.duckduckgo.com
+[missing-csp] [http] [info] http://autodiscover.duckduckgo.com
+[missing-csp] [http] [info] https://aaron.duckduckgo.com
+[missing-csp] [http] [info] https://aue-kshannon1.duckduckgo.com
+[missing-csp] [http] [info] https://cbolin.duckduckgo.com
+[missing-csp] [http] [info] https://charmston.duckduckgo.com
+[missing-csp] [http] [info] https://aue-aboron1.duckduckgo.com
+[missing-csp] [http] [info] https://aue-bgonzalez1.duckduckgo.com
+[missing-csp] [http] [info] https://aue-dmalone1.duckduckgo.com
+[missing-csp] [http] [info] https://daffy.duckduckgo.com
+[missing-csp] [http] [info] https://boop.duckduckgo.com
+[missing-csp] [http] [info] https://ase-rjain1.duckduckgo.com
+[missing-csp] [http] [info] https://cclarke.duckduckgo.com
+[missing-csp] [http] [info] https://bhall.duckduckgo.com
+[missing-csp] [http] [info] https://bslayter.duckduckgo.com
+[missing-csp] [http] [info] https://aue-jbrendel1.duckduckgo.com
+[missing-csp] [http] [info] https://cbelmer.duckduckgo.com
+[missing-csp] [http] [info] https://brs-jpereira1.duckduckgo.com
+[missing-csp] [http] [info] https://caine.duckduckgo.com
+[missing-csp] [http] [info] https://aue-jhamilton1.duckduckgo.com
+[missing-csp] [http] [info] https://dave.duckduckgo.com
+[missing-csp] [http] [info] https://dev-sync-use.duckduckgo.com
+[missing-csp] [http] [info] https://devcpu1.duckduckgo.com
+[missing-csp] [http] [info] https://devcpu2.duckduckgo.com
+[missing-csp] [http] [info] https://devcpu3.duckduckgo.com
+[missing-csp] [http] [info] https://devcpu4.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting1.duckduckgo.com
+[google-floc-disabled] [http] [info] https://euw-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://eun-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://euw-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://eun-ip-4.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://euw-ip-4.duckduckgo.com ["1;mode=block"]
+[xss-deprecated-header] [http] [info] https://eun-ip-4.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://external-content.duckduckgo.com
+[google-floc-disabled] [http] [info] https://external-content.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://external-content.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://icons.duckduckgo.com
+[google-floc-disabled] [http] [info] https://icons.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://icons.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://devtesting11.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting16.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting10.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting14.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting12.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting13.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting15.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting17.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting2.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting18.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting22.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting19.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting20.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting21.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting25.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting26.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting23.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting24.duckduckgo.com
+[google-floc-disabled] [http] [info] https://links.duckduckgo.com
+[google-floc-disabled] [http] [info] https://links.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://links.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://devtesting27.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting3.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting4.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting5.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting6.duckduckgo.com
+[missing-csp] [http] [info] https://email.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting7.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting8.duckduckgo.com
+[missing-csp] [http] [info] https://emaildev.duckduckgo.com
+[missing-csp] [http] [info] https://email.mailer.duckduckgo.com
+[missing-csp] [http] [info] https://itr.duckduckgo.com
+[missing-csp] [http] [info] https://itr-staging.duckduckgo.com
+[missing-csp] [http] [info] https://ideas.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://proxy1.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy-usc-1.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy1.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy1.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://proxy2.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy-usc-1.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy-usc-1.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://proxy3.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://proxy2.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy2.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://proxy3.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy3.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://proxy4.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://proxy4.duckduckgo.com ["1;mode=block"]
+[google-floc-disabled] [http] [info] https://staging-links.duckduckgo.com
+[google-floc-disabled] [http] [info] https://staging-links.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://staging-links.duckduckgo.com ["1;mode=block"]
+[aws-bucket-service] [http] [info] https://staticcdn.duckduckgo.com
+[missing-csp] [http] [info] https://dub-admin.duckduckgo.com
+[missing-csp] [http] [info] https://devtesting9.duckduckgo.com
+[missing-csp] [http] [info] https://eric.duckduckgo.com
+[missing-csp] [http] [info] https://dvigliotti.duckduckgo.com
+[missing-csp] [http] [info] https://external-content.duckduckgo.com
+[missing-csp] [http] [info] https://flawrence.duckduckgo.com
+[missing-csp] [http] [info] https://go.duckduckgo.com
+[missing-csp] [http] [info] https://greg.duckduckgo.com
+[missing-csp] [http] [info] https://quack.duckduckgo.com
+[missing-csp] [http] [info] https://quackdev.duckduckgo.com
+[missing-csp] [http] [info] https://johnm.duckduckgo.com
+[missing-csp] [http] [info] https://isa.duckduckgo.com
+[missing-csp] [http] [info] https://jaryd.duckduckgo.com
+[missing-csp] [http] [info] https://jason.duckduckgo.com
+[missing-csp] [http] [info] https://jenkins.duckduckgo.com
+[missing-csp] [http] [info] https://jhamilton.duckduckgo.com
+[missing-csp] [http] [info] https://jfrank.duckduckgo.com
+[missing-csp] [http] [info] https://jve.duckduckgo.com
+[missing-csp] [http] [info] https://kibana-dev.duckduckgo.com
+[missing-csp] [http] [info] https://kibana.duckduckgo.com
+[missing-csp] [http] [info] https://jrusso.duckduckgo.com
+[missing-csp] [http] [info] https://jeffrey.duckduckgo.com
+[missing-csp] [http] [info] https://jupyter.duckduckgo.com
+[missing-csp] [http] [info] https://subscriptions.duckduckgo.com
+[missing-csp] [http] [info] https://staticcdn.duckduckgo.com
+[missing-csp] [http] [info] https://subscriptions-dev.duckduckgo.com
+[missing-csp] [http] [info] https://staging.netp.duckduckgo.com
+[missing-csp] [http] [info] https://staging1.netp.duckduckgo.com
+[display-via-header] [http] [info] https://www.chromatic.com/custom-domain-verify?redirect=https%3A%2F%2Fstorybook.duckduckgo.com%2F ["Via: 1.1 vegur"]
+[missing-csp] [http] [info] https://storybook.duckduckgo.com
+[display-via-header] [http] [info] https://storybook.duckduckgo.com ["Via: 1.1 71ac5938fae2311667bfbb1e1df1d672.cloudfront.net (CloudFront)"]
+[missing-csp] [http] [info] https://ladamski.duckduckgo.com
+[missing-csp] [http] [info] https://marc.duckduckgo.com
+[missing-csp] [http] [info] https://maria.duckduckgo.com
+[missing-csp] [http] [info] https://mas.duckduckgo.com
+[missing-csp] [http] [info] https://monitor.duckduckgo.com
+[missing-csp] [http] [info] https://moollaza.duckduckgo.com
+[missing-csp] [http] [info] https://nil.duckduckgo.com
+[missing-csp] [http] [info] https://proxy.duckduckgo.com
+[missing-csp] [http] [info] https://proxy3.duckduckgo.com
+[missing-csp] [http] [info] https://rjain.duckduckgo.com
+[missing-csp] [http] [info] https://sebastien.duckduckgo.com
+[missing-csp] [http] [info] https://servo.duckduckgo.com
+[missing-csp] [http] [info] https://smtpmailer.duckduckgo.com
+[missing-csp] [http] [info] https://staging.duckduckgo.com
+[missing-csp] [http] [info] https://tommy.duckduckgo.com
+[missing-csp] [http] [info] https://tim.duckduckgo.com
+[missing-csp] [http] [info] https://sync.duckduckgo.com
+[missing-csp] [http] [info] https://usc-bhall1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-bslayter1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-caine1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-cbolin1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-jabel1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-jason1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-jader1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-klatzke1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-kmelich1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-tpeoples1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-ladamski1.duckduckgo.com
+[missing-csp] [http] [info] https://usc-zach1.duckduckgo.com
+[google-floc-disabled] [http] [info] https://use-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://use-ip-4.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://use-ip-4.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://use-asoto1.duckduckgo.com
+[missing-csp] [http] [info] https://use-ado1.duckduckgo.com
+[missing-csp] [http] [info] https://use-bkaiser1.duckduckgo.com
+[missing-csp] [http] [info] https://use-bkowalewicz1.duckduckgo.com
+[missing-csp] [http] [info] https://use-cbelmer1.duckduckgo.com
+[missing-csp] [http] [info] https://use-cclarke1.duckduckgo.com
+[missing-csp] [http] [info] https://use-charmston1.duckduckgo.com
+[missing-csp] [http] [info] https://use-dave1.duckduckgo.com
+[missing-csp] [http] [info] https://use-devcpu1.duckduckgo.com
+[missing-csp] [http] [info] https://use-devcpu4.duckduckgo.com
+[missing-csp] [http] [info] https://use-devcpu3.duckduckgo.com
+[missing-csp] [http] [info] https://use-devcpu2.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting10.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting1.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting11.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting12.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting13.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting14.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting16.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting15.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting17.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting18.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting19.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting2.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting20.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting21.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting22.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting23.duckduckgo.com
+[google-floc-disabled] [http] [info] http://usw-ip-1.duckduckgo.com
+[google-floc-disabled] [http] [info] http://usw-ip-1.duckduckgo.com
+[xss-deprecated-header] [http] [info] http://usw-ip-1.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://use-devtesting24.duckduckgo.com
+[google-floc-disabled] [http] [info] https://usw-ip-2.duckduckgo.com
+[google-floc-disabled] [http] [info] https://usw-ip-4.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting25.duckduckgo.com
+[google-floc-disabled] [http] [info] https://usw-ip-4.duckduckgo.com
+[google-floc-disabled] [http] [info] https://usw-ip-2.duckduckgo.com
+[xss-deprecated-header] [http] [info] https://usw-ip-4.duckduckgo.com ["1;mode=block"]
+[xss-deprecated-header] [http] [info] https://usw-ip-2.duckduckgo.com ["1;mode=block"]
+[missing-csp] [http] [info] https://use-devtesting26.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting27.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting3.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting4.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting5.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting6.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting7.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting9.duckduckgo.com
+[missing-csp] [http] [info] https://use-devtesting8.duckduckgo.com
+[missing-csp] [http] [info] https://use-dng1-admin.duckduckgo.com
+[missing-csp] [http] [info] https://use-dvigliotti1.duckduckgo.com
+[missing-csp] [http] [info] https://use-greg1.duckduckgo.com
+[missing-csp] [http] [info] https://use-dng1.duckduckgo.com
+[missing-csp] [http] [info] https://use-eric1.duckduckgo.com
+[missing-csp] [http] [info] https://use-isa1.duckduckgo.com
+[missing-csp] [http] [info] https://use-jashby1.duckduckgo.com
+[missing-csp] [http] [info] https://use-jaryd1.duckduckgo.com
+[missing-csp] [http] [info] https://use-jrusso1.duckduckgo.com
+[missing-csp] [http] [info] https://use-jve1.duckduckgo.com
+[missing-csp] [http] [info] https://use-login.duckduckgo.com
+[missing-csp] [http] [info] https://use-maria1.duckduckgo.com
+[missing-csp] [http] [info] https://use-marc1.duckduckgo.com
+[missing-csp] [http] [info] https://use-mburgert1.duckduckgo.com
+[missing-csp] [http] [info] https://use-moollaza1.duckduckgo.com
+[missing-csp] [http] [info] https://use-naldahleh1.duckduckgo.com
+[missing-csp] [http] [info] https://use-npinto1.duckduckgo.com
+[missing-csp] [http] [info] https://use-sbegleymiller1.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests2.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests1.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests3.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests5.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests4.duckduckgo.com
+[missing-csp] [http] [info] https://use-senglehardt1.duckduckgo.com
+[missing-csp] [http] [info] https://use-searchtests6.duckduckgo.com
+[missing-csp] [http] [info] https://use-tim1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-aaron1.duckduckgo.com
+[missing-csp] [http] [info] https://use-tommy1.duckduckgo.com
+[missing-csp] [http] [info] https://use-yegg1.duckduckgo.com
+[missing-csp] [http] [info] https://use-tstorey1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-ashuba1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-igrey1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-flawrence1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-ip-2.duckduckgo.com
+[missing-csp] [http] [info] https://usw-jeffrey1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-jfrank1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-jmatthews1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-johnm1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-lkruger1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-sebastien1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-tgibbs1.duckduckgo.com
+[missing-csp] [http] [info] https://usw-vlad1.duckduckgo.com
+[missing-csp] [http] [info] https://vlad.duckduckgo.com
+[missing-csp] [http] [info] https://yelp.duckduckgo.com
+[missing-csp] [http] [info] https://yegg.duckduckgo.com
+[missing-csp] [http] [info] https://zach.duckduckgo.com
+[swagger-xss] [http] [medium] https://aue-ip-1.duckduckgo.com/dochelper?userId=<script>alert(2brs9Bu8mYCsGeboOSjlffEL3ae)</script>
+[swagger-xss] [http] [medium] https://usw-ip-2.duckduckgo.com/dochelper?userId=<script>alert(2brs9Bu8mYCsGeboOSjlffEL3ae)</script>

@@ -1,0 +1,567 @@
+[txt-fingerprint] [dns] [info] acronis.com ["\"m_verify=b666ba0552\"","\"mgverify=6d3b5ecfd2b2bc9d4a80c50b916703c98b3877fee984ebc3a77bda48827a737c\"","\"teamviewer-sso-verification=739bbee559854bdb80e9939d00510470\"","\"v=spf1 mx include:_spf1.acronis.com include:mktomail.com include:_spf.salesforce.com include:smp.ne.jp include:spf.protection.outlook.com  a:smtpmail.acronis.com -all\"","\"MS=ms64092276\"","\"google-site-verification=HplJO299J9xbh_g15j2Vp4jL0ut4DSntItXuGGdu1r4\"","\"google-site-verification=W9gEtUq0zBrZwjuoEifQAvkqfjGcym_CdeZTtwyKLG0\"","\"google-site-verification=wRc1VAU8r48gM6hFyxFAOTEIxskWohlipKae1c2l63Q\""]
+[mx-fingerprint] [dns] [info] academy.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[caa-fingerprint] [dns] [info] a.acronis.com
+[txt-fingerprint] [dns] [info] acronis.com.hk ["\"iojhtkilmnv9ggda0tn7othamq\""]
+[caa-fingerprint] [dns] [info] 15.acronis.com
+[caa-fingerprint] [dns] [info] adn.acronis.com
+[caa-fingerprint] [dns] [info] _sg.metro.acronis.com
+[caa-fingerprint] [dns] [info] account.acronis.com
+[caa-fingerprint] [dns] [info] aa.acronis.com
+[caa-fingerprint] [dns] [info] _au.metro.acronis.com
+[caa-fingerprint] [dns] [info] ach1-repo.acronis.com
+[mx-fingerprint] [dns] [info] acronis.com.au ["10 sg-edge-1.acronis.com.","5 bg-edge-1.acronis.com."]
+[caa-fingerprint] [dns] [info] acronis.com.sg
+[caa-fingerprint] [dns] [info] acronis.com.au
+[caa-fingerprint] [dns] [info] access.acronis.com
+[mx-fingerprint] [dns] [info] acronis.com ["10 sg-edge-1.acronis.com.","5 bg-edge-1.acronis.com."]
+[txt-fingerprint] [dns] [info] account.acronis.com ["\"v=spf1 include:mailgun.org -all\""]
+[mx-fingerprint] [dns] [info] account.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[txt-fingerprint] [dns] [info] acronis.com.au ["\"v=spf1 include:_spf.acronis.com -all\""]
+[txt-fingerprint] [dns] [info] acronis.com.sg ["\"v=spf1 include:_spf.acronis.com -all\""]
+[caa-fingerprint] [dns] [info] academy.acronis.com
+[txt-fingerprint] [dns] [info] academy.acronis.com ["\"v=spf1 include:mailgun.org mx ip4:69.55.50.19 ~all\""]
+[caa-fingerprint] [dns] [info] acronis.com ["mailto:hostmaster@acronis.com","digicert.com","letsencrypt.org"]
+[mx-fingerprint] [dns] [info] acronis.com.sg ["10 sg-edge-1.acronis.com.","5 bg-edge-1.acronis.com."]
+[caa-fingerprint] [dns] [info] 8gn5epdjonzntrskk716h2vaq.metro.acronis.com
+[caa-fingerprint] [dns] [info] accstaff.acronis.com
+[caa-fingerprint] [dns] [info] ab-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] _uk.metro.acronis.com
+[caa-fingerprint] [dns] [info] _eu.metro.acronis.com
+[caa-fingerprint] [dns] [info] acronis.com.hk
+[nameserver-fingerprint] [dns] [info] acronis.com ["ns-1134.awsdns-13.org.","ns-1700.awsdns-20.co.uk.","ns-445.awsdns-55.com.","ns-809.awsdns-37.net."]
+[dmarc-detect] [dns] [info] _dmarc.acronis.com ["\"v=DMARC1; p=reject; rua=mailto:a.bia5x2ps@sdmarc.net,mailto:34627c61f0@rua.easydmarc.asia; ruf=mailto:f.bia5x2ps@sdmarc.net,mailto:34627c61f0@ruf.easydmarc.asia; fo=1\""]
+[nameserver-fingerprint] [dns] [info] acronis.com.hk ["ns-129.awsdns-16.com.","ns-1494.awsdns-58.org.","ns-1620.awsdns-10.co.uk.","ns-789.awsdns-34.net."]
+[nameserver-fingerprint] [dns] [info] acronis.com.au ["ns-1471.awsdns-55.org.","ns-1604.awsdns-08.co.uk.","ns-335.awsdns-41.com.","ns-730.awsdns-27.net."]
+[caa-fingerprint] [dns] [info] activecho.acronis.com
+[dns-saas-service-detection] [dns] [info] _sg.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] activation.acronis.com
+[dmarc-detect] [dns] [info] _dmarc.acronis.com.sg ["\"v=DMARC1;p=reject\""]
+[dns-saas-service-detection] [dns] [info] accstaff.acronis.com ["pmc.acronis.com"]
+[caa-fingerprint] [dns] [info] activation-cn.acronis.com
+[dns-saas-service-detection] [dns] [info] _eu.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] admin.acronis.com
+[dns-saas-service-detection] [dns] [info] 8gn5epdjonzntrskk716h2vaq.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] ab-beta-cloud.acronis.com ["beta-cloud.acronis.com"]
+[nameserver-fingerprint] [dns] [info] acronis.com.sg ["ns-301.awsdns-37.com.","ns-516.awsdns-00.net.","ns-1203.awsdns-22.org.","ns-1935.awsdns-49.co.uk."]
+[caa-fingerprint] [dns] [info] admin2.acronis.com
+[dmarc-detect] [dns] [info] _dmarc.account.acronis.com ["\"v=DMARC1;p=quarantine;rua=mailto:34627c61f0@rua.easydmarc.asia;ruf=mailto:34627c61f0@ruf.easydmarc.asia;fo=1\""]
+[dns-saas-service-detection] [dns] [info] _au.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] activecho.acronis.com ["access.acronis.com"]
+[dns-saas-service-detection] [dns] [info] _uk.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] acronis.com.cn
+[dns-saas-service-detection] [dns] [info] acronis.com.cn ["a.17986.net"]
+[caa-fingerprint] [dns] [info] agents-at01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-br02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-br01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-dk01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ca02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-au1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu2-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu4-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ca01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-cz01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] ae01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ee99-cloud.acronis.com
+[caa-fingerprint] [dns] [info] affiliate.acronis.com
+[caa-fingerprint] [dns] [info] agents-es01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-bg98-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-bg01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ae01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu8-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-il01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-gr01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-id01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-hu01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-in01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-fi01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-godaddy-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu5-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-mc-heg-baas.acronis.com
+[caa-fingerprint] [dns] [info] agents-mx01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-li01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-nz01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ro01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-jp-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-sg-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-mc-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-ng01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-it01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-se01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-my01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-mc-bg98-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-tr01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-no01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-kr01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-pl01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-jp03-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-mc-kaseya-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-pt01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-us12-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-uk01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-tw01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] agents-mc-bg98-cloud.acronis.com ["agents-bg98-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] agents-us11-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-uk99-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-us-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-us15-cloud.acronis.com
+[caa-fingerprint] [dns] [info] ams7799-jp-cloud.acronis.com
+[caa-fingerprint] [dns] [info] ams7796-jp-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-us4-cloud.acronis.com
+[caa-fingerprint] [dns] [info] bc-eu2-baas.acronis.com
+[caa-fingerprint] [dns] [info] atih-pushy.acronis.com
+[caa-fingerprint] [dns] [info] bc-eu4-cloud.acronis.com
+[mx-fingerprint] [dns] [info] backup.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[caa-fingerprint] [dns] [info] bc-eu5-baas.acronis.com
+[caa-fingerprint] [dns] [info] bc-eu5-cloud.acronis.com
+[caa-fingerprint] [dns] [info] bc-heg-cloud.acronis.com
+[caa-fingerprint] [dns] [info] bc-us4-baas.acronis.com
+[caa-fingerprint] [dns] [info] bom1-repo.acronis.com
+[caa-fingerprint] [dns] [info] br01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-at01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-br01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-eu8-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-es01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-jp-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-eu2-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-in01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-jp03-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-sg-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-us11-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-us12-cloud.acronis.com
+[caa-fingerprint] [dns] [info] bud1-repo.acronis.com
+[caa-fingerprint] [dns] [info] branded-us2-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-us4-cloud.acronis.com
+[caa-fingerprint] [dns] [info] cdn.acronis.com
+[caa-fingerprint] [dns] [info] cftp-de.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-fi01.acronis.com
+[dns-saas-service-detection] [dns] [info] cftp-de.acronis.com ["cftp.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-eu2.acronis.com ["eu2-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-gr01.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-eu2.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-pt01.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-kr01.acronis.com ["kr01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-jp2.acronis.com ["jp-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-se01.acronis.com ["se01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-mx01.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-ng01.acronis.com ["ng01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-uk99.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-li01.acronis.com ["li01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cn.metro.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-us6.acronis.com ["cloud-wr-us2.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-uk01.acronis.com ["uk01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] de-img.acronis.com
+[txt-fingerprint] [dns] [info] cloud.acronis.com ["\"v=spf1 include:mailgun.org -all\""]
+[dns-saas-service-detection] [dns] [info] cloud-wrh-us1.acronis.com ["cloud-wr-us1.acronis.com"]
+[caa-fingerprint] [dns] [info] ditto.acronis.com
+[nameserver-fingerprint] [dns] [info] acronis.com ["ns-1134.awsdns-13.org.","ns-1700.awsdns-20.co.uk.","ns-445.awsdns-55.com.","ns-809.awsdns-37.net."]
+[caa-fingerprint] [dns] [info] dr.acronis.com
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dl.acronis.com ["acronis-dl.akamaized.net"]
+[dns-saas-service-detection] [dns] [info] email.dr.acronis.com ["mailgun.org"]
+[dns-saas-service-detection] [dns] [info] email.files.acronis.com ["mailgun.org"]
+[dns-saas-service-detection] [dns] [info] email.notary.acronis.com ["mailgun.org"]
+[caa-fingerprint] [dns] [info] en_au.metro.acronis.com
+[caa-fingerprint] [dns] [info] feed.acronis.com
+[dns-saas-service-detection] [dns] [info] eu5-cloud.acronis.com ["eu5-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] eu8-cloud.acronis.com
+[caa-fingerprint] [dns] [info] gru1-repo.acronis.com
+[caa-fingerprint] [dns] [info] i2.acronis.com
+[caa-fingerprint] [dns] [info] id.metro.acronis.com
+[caa-fingerprint] [dns] [info] it.metro.acronis.com
+[caa-fingerprint] [dns] [info] hk.metro.acronis.com
+[caa-fingerprint] [dns] [info] il01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] jp-wr-backup.acronis.com
+[dns-saas-service-detection] [dns] [info] jp-bc-backup.acronis.com ["jp-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mc-beta-baas.acronis.com ["beta-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] li01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] logo.acronis.com ["domains.readymag.com"]
+[caa-fingerprint] [dns] [info] mobile-au1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] mobile-fi01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-godaddy-cloud.acronis.com ["agents-godaddy-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-id01-cloud.acronis.com ["agents-id01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-il01-cloud.acronis.com ["agents-il01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-in01-cloud.acronis.com ["agents-in01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mobile-es01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-eu2-cloud.acronis.com ["agents-eu2-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-jp-cloud.acronis.com ["agents-jp-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-sg-cloud.acronis.com ["agents-sg-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mobile-in01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] mobile-mx01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] mobile-sg-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-mc-beta-cloud.acronis.com ["agents-mc-beta-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mobile-se01-cloud.acronis.com
+[txt-fingerprint] [dns] [info] notary-sentry.acronis.com ["\"v=spf1 include:mailgun.org ~all\""]
+[dns-saas-service-detection] [dns] [info] mobile-us12-cloud.acronis.com ["agents-us12-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-za01-cloud.acronis.com ["agents-za01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] partners.acronis.com.au
+[caa-fingerprint] [dns] [info] partners.acronis.com.cn
+[caa-fingerprint] [dns] [info] ng01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] nz01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] partners.acronis.com.tw
+[caa-fingerprint] [dns] [info] rs-ca01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-ee99-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-ca02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-eu4-baas.acronis.com
+[caa-fingerprint] [dns] [info] rs-es01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-ee99-cloud.acronis.com ["ee99-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-kr01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-my01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-jp-cloud.acronis.com ["rs-jp-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-jp-baas.acronis.com
+[caa-fingerprint] [dns] [info] rs-fi01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-eu8-baas.acronis.com ["eu8-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-gr01-cloud.acronis.com ["gr01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-ro01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-uk01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-li01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-mc-bg98-cloud.acronis.com ["bg98-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-sg1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-uk99-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-us15-cloud.acronis.com ["us15-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-us12-cloud.acronis.com ["us12-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-sg1-cloud.acronis.com ["sg1-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] sg-baas.acronis.com ["sg-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] sg-i1.acronis.com
+[caa-fingerprint] [dns] [info] rs-us5-cloud.acronis.com
+[caa-fingerprint] [dns] [info] se01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] sg-repo.acronis.com ["sin1-repo.acronis.com"]
+[caa-fingerprint] [dns] [info] store.acronis.com
+[caa-fingerprint] [dns] [info] staging-snactivation.acronis.com
+[caa-fingerprint] [dns] [info] status.acronis.com
+[dns-saas-service-detection] [dns] [info] statsit.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] tr.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] tpe1-repo.acronis.com
+[caa-fingerprint] [dns] [info] uk01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] tw.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] us12-cloud.acronis.com
+[caa-fingerprint] [dns] [info] wr-beta-baas.acronis.com
+[dns-saas-service-detection] [dns] [info] us-sentry.acronis.com ["us-kibana.acronis.com"]
+[caa-fingerprint] [dns] [info] vlc1-repo.acronis.com
+[caa-fingerprint] [dns] [info] www.www.us.metro.acronis.com
+[caa-fingerprint] [dns] [info] yyz2-repo.acronis.com
+[caa-fingerprint] [dns] [info] _uk.metro.acronis.com
+[caa-fingerprint] [dns] [info] www.acronis.com.sg
+[dns-saas-service-detection] [dns] [info] ab-beta-cloud.acronis.com ["beta-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] aaa-vpn.acronis.com
+[caa-fingerprint] [dns] [info] abgw-fco1-aci01.acronis.com
+[caa-fingerprint] [dns] [info] abgw-got1-aci01.acronis.com
+[caa-fingerprint] [dns] [info] abgw-iad10-aci01.acronis.com
+[dns-saas-service-detection] [dns] [info] z.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] abgw-icn1-aci01.acronis.com
+[caa-fingerprint] [dns] [info] abgw-phx10-aci01.acronis.com
+[caa-fingerprint] [dns] [info] abgw-lhr3-acs2.acronis.com
+[caa-fingerprint] [dns] [info] abgw-otp1-aci01.acronis.com
+[txt-fingerprint] [dns] [info] account.acronis.com ["\"v=spf1 include:mailgun.org -all\""]
+[caa-fingerprint] [dns] [info] ach1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] academy.acronis.com
+[nameserver-fingerprint] [dns] [info] acronis.com ["ns-1134.awsdns-13.org.","ns-1700.awsdns-20.co.uk.","ns-445.awsdns-55.com.","ns-809.awsdns-37.net."]
+[caa-fingerprint] [dns] [info] activation-cn.acronis.com
+[caa-fingerprint] [dns] [info] agents-au1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] acronis.com.sg
+[caa-fingerprint] [dns] [info] agents-es01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-eu2-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-godaddy-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-it01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-my01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] agents-sg-cloud.acronis.com
+[caa-fingerprint] [dns] [info] atih-pushy.acronis.com
+[caa-fingerprint] [dns] [info] au-cloud.acronis.com
+[caa-fingerprint] [dns] [info] authenticationfr.metro.acronis.com
+[caa-fingerprint] [dns] [info] akl1-repo.acronis.com
+[caa-fingerprint] [dns] [info] baas-fes-au1.acronis.com
+[txt-fingerprint] [dns] [info] bg98-cloud.acronis.com ["\"v=spf1 include:mailgun.org ~all\""]
+[dns-saas-service-detection] [dns] [info] backup.acronis.com ["baas.acronis.com"]
+[caa-fingerprint] [dns] [info] backup.acronis.com
+[dns-saas-service-detection] [dns] [info] aws2.acronis.com ["acronis-adfs.awsapps.com"]
+[caa-fingerprint] [dns] [info] bc-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] baas-fes-au2-acs1.acronis.com
+[caa-fingerprint] [dns] [info] bc-eu5-baas.acronis.com
+[mx-fingerprint] [dns] [info] bg98-cloud.acronis.com ["10 mxa.eu.mailgun.org.","10 mxb.eu.mailgun.org."]
+[dns-saas-service-detection] [dns] [info] auh1-s3gw.acronis.com ["abgw-auh1-aci01.acronis.com"]
+[dns-saas-service-detection] [dns] [info] bc-eu4-baas.acronis.com ["eu4-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] bc-eu2-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] bc-cloud.acronis.com ["eu-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] bc-eu-baas.acronis.com ["eu-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] bc-eu2-baas.acronis.com ["eu2-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] bg-qa-officeonline.acronis.com
+[caa-fingerprint] [dns] [info] bom1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] br02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-au1-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] bc-us4-baas.acronis.com ["us4-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] branded-godaddy-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-ca02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-eu-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-jp-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-hu01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-id01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-heg-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-sg-baas.acronis.com
+[caa-fingerprint] [dns] [info] branded-no01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-kr01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] branded-uk99-cloud.acronis.com
+[caa-fingerprint] [dns] [info] ca02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] careers.acronis.com
+[caa-fingerprint] [dns] [info] care.acronis.com
+[caa-fingerprint] [dns] [info] cleverbridge.acronis.com
+[mx-fingerprint] [dns] [info] cloud-wr-bg98.acronis.com ["10 mxa.eu.mailgun.org.","10 mxb.eu.mailgun.org."]
+[caa-fingerprint] [dns] [info] cloud-fes-au2-acs1.acronis.com
+[caa-fingerprint] [dns] [info] casestudies.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-au1.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-fes-au1.acronis.com ["abgw-au2-acs1.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-fes-jp1.acronis.com ["abgw-jp2-acs1.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-fes-jp2.acronis.com ["abgw-jp2-acs1.acronis.com"]
+[dns-saas-service-detection] [dns] [info] casestudies.acronis.com ["acronis.slapfive.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-at01.acronis.com ["at01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] cloud-wr-dk01.acronis.com ["dk01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-eu2.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-in01.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-cz01.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-gr01.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-eu5.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-id01.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-il01.acronis.com ["il01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-it01.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-uk99.acronis.com ["uk99-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-us1.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wr-nz01.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-pt01.acronis.com ["pt01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-us15.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wr-sg1.acronis.com ["sg-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] cloud-wr-us2.acronis.com
+[dns-saas-service-detection] [dns] [info] cloud-wrh-us1.acronis.com ["cloud-wr-us1.acronis.com"]
+[txt-fingerprint] [dns] [info] acronis.com ["\"google-site-verification=wRc1VAU8r48gM6hFyxFAOTEIxskWohlipKae1c2l63Q\"","\"m_verify=b666ba0552\"","\"mgverify=6d3b5ecfd2b2bc9d4a80c50b916703c98b3877fee984ebc3a77bda48827a737c\"","\"teamviewer-sso-verification=739bbee559854bdb80e9939d00510470\"","\"v=spf1 mx include:_spf1.acronis.com include:mktomail.com include:_spf.salesforce.com include:smp.ne.jp include:spf.protection.outlook.com  a:smtpmail.acronis.com -all\"","\"MS=ms64092276\"","\"google-site-verification=HplJO299J9xbh_g15j2Vp4jL0ut4DSntItXuGGdu1r4\"","\"google-site-verification=W9gEtUq0zBrZwjuoEifQAvkqfjGcym_CdeZTtwyKLG0\""]
+[caa-fingerprint] [dns] [info] cloud.acronis.com
+[caa-fingerprint] [dns] [info] cloudowa.acronis.com
+[caa-fingerprint] [dns] [info] customers.acronis.com
+[caa-fingerprint] [dns] [info] acronis.com ["mailto:hostmaster@acronis.com","digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] de-img.acronis.com
+[caa-fingerprint] [dns] [info] cloud-wrh-us1.acronis.com
+[txt-fingerprint] [dns] [info] email.academy.acronis.com ["\"google-site-verification=FIGVOKZm6lQFDBJaiC2DdwvBy8TInunoGCt-1gnL4PA\"","\"v=spf1 include:_spf.mailgun.org include:_spf.eu.mailgun.org -all\"","\"8f7088gv5932jxw9lwwd1b6ttx2pw2ds\""]
+[caa-fingerprint] [dns] [info] dl3.acronis.com
+[caa-fingerprint] [dns] [info] de-i1.acronis.com
+[caa-fingerprint] [dns] [info] docs.acronis.com
+[caa-fingerprint] [dns] [info] download.acronis.com
+[txt-fingerprint] [dns] [info] email.accessconnect.acronis.com ["\"8f7088gv5932jxw9lwwd1b6ttx2pw2ds\"","\"google-site-verification=FIGVOKZm6lQFDBJaiC2DdwvBy8TInunoGCt-1gnL4PA\"","\"v=spf1 include:_spf.mailgun.org include:_spf.eu.mailgun.org -all\""]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dl.acronis.com ["acronis-dl.akamaized.net"]
+[dns-saas-service-detection:akamai-cdn] [dns] [info] dl5.acronis.com ["acronis-dl.akamaized.net"]
+[mx-fingerprint] [dns] [info] email2.cloud.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[txt-fingerprint] [dns] [info] email.motorsport.acronis.com ["\"google-site-verification=FIGVOKZm6lQFDBJaiC2DdwvBy8TInunoGCt-1gnL4PA\"","\"v=spf1 include:_spf.mailgun.org include:_spf.eu.mailgun.org -all\"","\"8f7088gv5932jxw9lwwd1b6ttx2pw2ds\""]
+[caa-fingerprint] [dns] [info] dr.acronis.com
+[nameserver-fingerprint] [dns] [info] email.forum.acronis.com ["ns-133.awsdns-16.com.","ns-1482.awsdns-57.org.","ns-1614.awsdns-09.co.uk.","ns-586.awsdns-09.net."]
+[nameserver-fingerprint] [dns] [info] email.motorsport.acronis.com ["ns-133.awsdns-16.com.","ns-1482.awsdns-57.org.","ns-1614.awsdns-09.co.uk.","ns-586.awsdns-09.net."]
+[caa-fingerprint] [dns] [info] es.metro.acronis.com
+[caa-fingerprint] [dns] [info] eu-baas.acronis.com
+[caa-fingerprint] [dns] [info] email.gh-mail.acronis.com ["digicert.com","letsencrypt.org",";"]
+[dns-saas-service-detection] [dns] [info] email.files.acronis.com ["mailgun.org"]
+[caa-fingerprint] [dns] [info] en-us.metro.acronis.com
+[caa-fingerprint] [dns] [info] eu4-cloud.acronis.com
+[nameserver-fingerprint] [dns] [info] email.files.demo.acronis.com ["ns-133.awsdns-16.com.","ns-1482.awsdns-57.org.","ns-1614.awsdns-09.co.uk.","ns-586.awsdns-09.net."]
+[caa-fingerprint] [dns] [info] eu5-repo.acronis.com
+[caa-fingerprint] [dns] [info] eu4-baas.acronis.com
+[txt-fingerprint] [dns] [info] forum.acronis.com ["\"v=spf1 include:mailgun.org ip4:69.20.59.95 -all\""]
+[txt-fingerprint] [dns] [info] forums.acronis.com ["\"v=spf1 include:mailgun.org ip4:69.20.59.95 -all\""]
+[mx-fingerprint] [dns] [info] forum.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[caa-fingerprint] [dns] [info] forms.acronis.com
+[caa-fingerprint] [dns] [info] feed2.acronis.com
+[dns-saas-service-detection] [dns] [info] eu-repo.acronis.com ["eu-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] gsnlink.acronis.com ["godaddy.com","amazonaws.com"]
+[dns-saas-service-detection] [dns] [info] eu4-cloud.acronis.com ["eu4-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] fes-au1-baas.acronis.com ["abgw-au2-acs1.acronis.com"]
+[dns-saas-service-detection:adobe-marketo] [dns] [info] forms.acronis.com ["acronis.mktoweb.com"]
+[mx-fingerprint] [dns] [info] gsnlink.acronis.com ["20 mx2.sendgrid.net.","10 mx.sendgrid.net."]
+[caa-fingerprint] [dns] [info] i2.acronis.com
+[caa-fingerprint] [dns] [info] hel1-repo.acronis.com
+[dns-saas-service-detection] [dns] [info] heg-cloud.acronis.com ["heg-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] ipn.acronis.com
+[caa-fingerprint] [dns] [info] itstaging.metro.acronis.com
+[caa-fingerprint] [dns] [info] jp-baas.acronis.com
+[dns-saas-service-detection] [dns] [info] iad10-s3gw.acronis.com ["abgw-iad10-aci01.acronis.com"]
+[caa-fingerprint] [dns] [info] jp-rs-baas.acronis.com
+[caa-fingerprint] [dns] [info] jamf.acronis.com
+[nameserver-fingerprint] [dns] [info] info.acronis.com ["ns1.marketo.com.","ns2.mktdns.com."]
+[dns-saas-service-detection] [dns] [info] jp-wr-baas.acronis.com ["jp-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] jp-wr-backup.acronis.com ["jp-wr-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] jp.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] jp-wr-cloud.acronis.com ["jp-wr-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] jp-repo.acronis.com ["mmj1-repo.acronis.com"]
+[caa-fingerprint] [dns] [info] li01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] jp-bc-baas.acronis.com ["jp-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] jp2-cloud.acronis.com
+[caa-fingerprint] [dns] [info] lyncdiscover.acronis.com
+[dns-saas-service-detection] [dns] [info] mc-beta-cloud.acronis.com ["mc-beta-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] mc-beta-baas.acronis.com
+[caa-fingerprint] [dns] [info] merch.acronis.com
+[caa-fingerprint] [dns] [info] mobile-at01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mc-telstra-au2.acronis.com ["telstra-au2.acronis.com"]
+[caa-fingerprint] [dns] [info] mcp-cloud-fes-jp2.acronis.com
+[dns-saas-service-detection] [dns] [info] mc-eu5-cloud.acronis.com ["eu5-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] mc-heg-baas.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-dk01-cloud.acronis.com ["agents-dk01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mcp-cloud-fes-au1.acronis.com
+[caa-fingerprint] [dns] [info] mobile-ca02-cloud.acronis.com
+[caa-fingerprint] [dns] [info] mobile-fi01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-in01-cloud.acronis.com ["agents-in01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-es01-cloud.acronis.com ["agents-es01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mobile-eu4-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobile-pl01-cloud.acronis.com ["agents-pl01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-pt01-cloud.acronis.com ["agents-pt01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-li01-cloud.acronis.com ["agents-li01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-tw01-cloud.acronis.com ["agents-tw01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-mc-beta-cloud.acronis.com ["agents-mc-beta-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-no01-cloud.acronis.com ["agents-no01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-za01-cloud.acronis.com ["agents-za01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] mobileapi-enterprise.acronis.com
+[caa-fingerprint] [dns] [info] mobile-sg-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] mobileapi-enterprise.acronis.com ["cloud-wr-us2.acronis.com"]
+[txt-fingerprint] [dns] [info] partners.acronis.com.hk ["\"v=spf1 include:eu.mailgun.org include:spf.mindmatrix.net -all\""]
+[dns-saas-service-detection] [dns] [info] mobile-us12-cloud.acronis.com ["agents-us12-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] mobile-us14-cloud.acronis.com ["agents-us14-cloud.acronis.com"]
+[mx-fingerprint] [dns] [info] partners.acronis.com.hk ["10 mxa.eu.mailgun.org.","10 mxb.eu.mailgun.org."]
+[caa-fingerprint] [dns] [info] nps.acronis.com
+[caa-fingerprint] [dns] [info] otp1-repo.acronis.com
+[dns-saas-service-detection] [dns] [info] partners.acronis.com.au ["partners.acronis.com"]
+[dns-saas-service-detection] [dns] [info] ond.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] pl.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] ond.acronis.com
+[caa-fingerprint] [dns] [info] pmc.acronis.com
+[dns-saas-service-detection] [dns] [info] profile-ru.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection:adobe-marketo] [dns] [info] promo.acronis.com ["acronis.mktoweb.com"]
+[caa-fingerprint] [dns] [info] oos.acronis.com
+[caa-fingerprint] [dns] [info] prg1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] profile-ru.metro.acronis.com
+[caa-fingerprint] [dns] [info] pbh1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] osl1-repo.acronis.com
+[caa-fingerprint] [dns] [info] pt01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] redapi.acronis.com
+[caa-fingerprint] [dns] [info] redapi2.acronis.com
+[caa-fingerprint] [dns] [info] osl1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] phx11-repo.acronis.com
+[caa-fingerprint] [dns] [info] partners.acronis.com.sg
+[caa-fingerprint] [dns] [info] rpc.acronis.com
+[caa-fingerprint] [dns] [info] rs-ae01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-at01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-au-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-au1-baas.acronis.com
+[caa-fingerprint] [dns] [info] rs-au1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-beta-baas.acronis.com
+[caa-fingerprint] [dns] [info] rs-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-bg01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] partners.acronis.com.hk ["partners.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-au-cloud.acronis.com ["au-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-au1-baas.acronis.com ["au1-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-au1-cloud.acronis.com ["au1-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-beta-baas.acronis.com ["beta-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-beta-cloud.acronis.com ["rs-beta-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-bg01-cloud.acronis.com ["bg01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-bg98-cloud.acronis.com ["bg98-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] partners.acronis.com.tw ["partners.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-br01-cloud.acronis.com ["br01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-br02-cloud.acronis.com ["br02-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-ca02-cloud.acronis.com ["ca02-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-ca01-cloud.acronis.com ["ca01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-cz01-cloud.acronis.com ["cz01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-dk01-cloud.acronis.com ["dk01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-es01-cloud.acronis.com ["es01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-ee99-cloud.acronis.com ["ee99-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-eu-baas.acronis.com ["eu-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] redirectsap.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-eu2-baas.acronis.com ["eu2-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-eu-cloud.acronis.com ["eu-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-eu5-cloud.acronis.com ["eu5-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rpc-oem.acronis.com
+[caa-fingerprint] [dns] [info] rs-bg98-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-ae01-cloud.acronis.com ["ae01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-eu4-baas.acronis.com ["eu4-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-br01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-eu2-cloud.acronis.com ["eu2-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-id01-cloud.acronis.com ["id01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-il01-cloud.acronis.com ["il01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-in01-cloud.acronis.com ["in01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-it01-cloud.acronis.com ["it01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-eu2-baas.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-jp-cloud.acronis.com ["rs-jp-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-kr01-cloud.acronis.com ["kr01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-eu-baas.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-eu8-cloud.acronis.com ["eu8-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-se01-cloud.acronis.com ["se01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-eu8-baas.acronis.com ["eu8-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-uk01-cloud.acronis.com ["uk01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-gr01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-pt01-cloud.acronis.com ["pt01-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-eu2-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-fi01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-us5-cloud.acronis.com ["us5-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-it01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-mc-bg98-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-uk01-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] rs-za01-cloud.acronis.com ["za01-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] ru.metro.acronis.com ["www.acronis.com"]
+[dns-saas-service-detection] [dns] [info] rs-us15-cloud.acronis.com ["us15-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-us5-baas.acronis.com
+[caa-fingerprint] [dns] [info] s3-gru2-acs01.acronis.com
+[caa-fingerprint] [dns] [info] s3-iad2-acs01.acronis.com
+[caa-fingerprint] [dns] [info] s3-jp2-acs1.acronis.com
+[caa-fingerprint] [dns] [info] s3-phx1-acs10.acronis.com
+[caa-fingerprint] [dns] [info] s3-phx1-acs3.acronis.com
+[caa-fingerprint] [dns] [info] s3-sin2-acs1.acronis.com
+[caa-fingerprint] [dns] [info] s3-staging-us2.acronis.com
+[caa-fingerprint] [dns] [info] s3-vytalink-acs1.acronis.com
+[caa-fingerprint] [dns] [info] s3-yyz2-acs01.acronis.com
+[caa-fingerprint] [dns] [info] s3-zrh1-acs2.acronis.com
+[caa-fingerprint] [dns] [info] sandbox-repo.acronis.com
+[caa-fingerprint] [dns] [info] se01-cloud.acronis.com
+[caa-fingerprint] [dns] [info] security-advisory.acronis.com
+[caa-fingerprint] [dns] [info] sg-baas.acronis.com
+[caa-fingerprint] [dns] [info] sg-cloud.acronis.com
+[dns-saas-service-detection] [dns] [info] s3-iad2-acs01.acronis.com ["abgw-iad2-acs01.acronis.com"]
+[dns-saas-service-detection] [dns] [info] sipexternal.acronis.com ["uksip.acronis.com"]
+[caa-fingerprint] [dns] [info] rs-us5-cloud.acronis.com
+[caa-fingerprint] [dns] [info] rs-us14-cloud.acronis.com
+[caa-fingerprint] [dns] [info] sg-i4.acronis.com
+[caa-fingerprint] [dns] [info] sin1-repo.acronis.com
+[caa-fingerprint] [dns] [info] sg-i1.acronis.com
+[caa-fingerprint] [dns] [info] sof1-repo.acronis.com
+[caa-fingerprint] [dns] [info] softbank-jp.acronis.com
+[caa-fingerprint] [dns] [info] s3-fra2-acs4.acronis.com
+[caa-fingerprint] [dns] [info] skg1-s3gw.acronis.com
+[dns-saas-service-detection] [dns] [info] store.acronis.com ["acronis-s.cleverbridge.com"]
+[dns-saas-service-detection] [dns] [info] staging-snactivation.acronis.com ["beta-cloud.acronis.com"]
+[dns-saas-service-detection] [dns] [info] sit-cloud.acronis.com ["eu2-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] spinfo.acronis.com
+[caa-fingerprint] [dns] [info] staging.partners.acronis.com
+[caa-fingerprint] [dns] [info] ti-beta-cloud.acronis.com
+[caa-fingerprint] [dns] [info] solutions.acronis.com
+[caa-fingerprint] [dns] [info] store.acronis.com
+[caa-fingerprint] [dns] [info] tw.metro.acronis.com
+[dns-saas-service-detection] [dns] [info] us-bc-baas.acronis.com ["us-baas.acronis.com"]
+[mx-fingerprint] [dns] [info] trueimage.acronis.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[caa-fingerprint] [dns] [info] trueimage.acronis.com
+[caa-fingerprint] [dns] [info] tlv1-repo.acronis.com
+[dns-saas-service-detection] [dns] [info] us-bc-backup.acronis.com ["us-baas.acronis.com"]
+[dns-saas-service-detection] [dns] [info] us-wr-backup.acronis.com ["us-wr-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] us-wr-baas.acronis.com
+[caa-fingerprint] [dns] [info] us-kibana.acronis.com
+[caa-fingerprint] [dns] [info] us-mobilecho.acronis.com
+[caa-fingerprint] [dns] [info] web-api-arp.acronis.com
+[dns-saas-service-detection] [dns] [info] web-api-tih0.acronis.com ["web-api-tih.acronis.com"]
+[caa-fingerprint] [dns] [info] web-api-host.acronis.com
+[dns-saas-service-detection] [dns] [info] wr-eu5-cloud.acronis.com ["eu5-baas.acronis.com"]
+[caa-fingerprint] [dns] [info] vie1-s3gw.acronis.com
+[caa-fingerprint] [dns] [info] vlc1-s3gw.acronis.com
+[dns-saas-service-detection] [dns] [info] web-api-tih-feed.acronis.com ["feed.acronis.com"]
+[caa-fingerprint] [dns] [info] websiteapi.acronis.com
+[dns-saas-service-detection] [dns] [info] wrh-au1-cloud.acronis.com ["au1-cloud.acronis.com"]
+[caa-fingerprint] [dns] [info] webtest-2.acronis.com
+[dns-saas-service-detection] [dns] [info] www.z.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] www.acronis.com
+[caa-fingerprint] [dns] [info] www.acronis.com.cn
+[caa-fingerprint] [dns] [info] www.us.metro.acronis.com
+[caa-fingerprint] [dns] [info] web-api-tih0.acronis.com
+[caa-fingerprint] [dns] [info] wrh-au1-cloud.acronis.com
+[caa-fingerprint] [dns] [info] wr-beta-baas.acronis.com
+[caa-fingerprint] [dns] [info] yyz2-repo.acronis.com
+[caa-fingerprint] [dns] [info] z.metro.acronis.com
+[caa-fingerprint] [dns] [info] www.acronis.com.au
+[dns-saas-service-detection] [dns] [info] zh.metro.acronis.com ["www.acronis.com"]
+[caa-fingerprint] [dns] [info] za01-cloud.acronis.com

@@ -1,0 +1,438 @@
+[caa-fingerprint] [dns] [info] aue-ip-1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] aue-aboron1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] agimenez.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] api.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] about.duckduckgo.com ["duckduckgo.com"]
+[txt-fingerprint] [dns] [info] about.duckduckgo.com ["\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\""]
+[dns-saas-service-detection] [dns] [info] aaron.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] ankit.duckduckgo.com ["eun-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] ac.duckduckgo.com ["\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\""]
+[dns-saas-service-detection] [dns] [info] aue-dmalone1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] audio.duckduckgo.com ["external-content.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] ase-rjain1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] aue-bgonzalez1.duckduckgo.com ["use-login.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] api.duckduckgo.com ["dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net."]
+[nameserver-fingerprint] [dns] [info] about.duckduckgo.com ["ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com."]
+[dns-saas-service-detection] [dns] [info] abrown.duckduckgo.com ["eun-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] api.duckduckgo.com ["\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\""]
+[nameserver-fingerprint] [dns] [info] ac.duckduckgo.com ["ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com."]
+[mx-service-detector:Office 365] [dns] [info] about.duckduckgo.com
+[mx-fingerprint] [dns] [info] about.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[mx-service-detector:Office 365] [dns] [info] ac.duckduckgo.com
+[mx-fingerprint] [dns] [info] ac.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[mx-service-detector:Office 365] [dns] [info] api.duckduckgo.com
+[mx-fingerprint] [dns] [info] api.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] ac.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] aue-bastion1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] aue-jbrendel1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] ase-ip-8.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] aue-jhamilton1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] aue-kshannon1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] ase-ip-7.duckduckgo.com
+[caa-fingerprint] [dns] [info] ac.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] ase-bastion1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-9.duckduckgo.com
+[caa-fingerprint] [dns] [info] aaron.duckduckgo.com
+[dns-saas-service-detection:ms-office] [dns] [info] autodiscover.duckduckgo.com ["autodiscover.outlook.com"]
+[caa-fingerprint] [dns] [info] aue-jbrendel1.duckduckgo.com
+[caa-fingerprint] [dns] [info] about.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] ase-ip-4.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-rjain1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-5.duckduckgo.com
+[caa-fingerprint] [dns] [info] aue-dmalone1.duckduckgo.com
+[caa-fingerprint] [dns] [info] agimenez.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-6.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] avianasanchez.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] ase-ip-2.duckduckgo.com
+[caa-fingerprint] [dns] [info] ase-ip-10.duckduckgo.com
+[caa-fingerprint] [dns] [info] aue-bgonzalez1.duckduckgo.com
+[caa-fingerprint] [dns] [info] api.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection:ms-office] [dns] [info] autodiscover.mailer.duckduckgo.com ["autodiscover.outlook.com"]
+[caa-fingerprint] [dns] [info] ase-ip-3.duckduckgo.com
+[caa-fingerprint] [dns] [info] abrown.duckduckgo.com
+[caa-fingerprint] [dns] [info] audio.duckduckgo.com
+[caa-fingerprint] [dns] [info] aue-aboron1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ankit.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] cbolin.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] charmston.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] chrome.duckduckgo.com ["api.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] boop.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] beta.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] bhall.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] cclarke.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] blog.duckduckgo.com ["duckduckgo.com"]
+[txt-fingerprint] [dns] [info] beta.duckduckgo.com ["\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\""]
+[dns-saas-service-detection] [dns] [info] daniele.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] bslayter.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] brs-jpereira1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] bastion.duckduckgo.com ["eun-bastion1.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] caine.duckduckgo.com ["use-login.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] blog.duckduckgo.com ["ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com."]
+[dns-saas-service-detection] [dns] [info] daffy.duckduckgo.com ["caine.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] blog.duckduckgo.com
+[mx-fingerprint] [dns] [info] blog.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] chat.duckduckgo.com ["use-mattermost1.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] beta.duckduckgo.com ["ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net."]
+[txt-fingerprint] [dns] [info] blog.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[dns-saas-service-detection] [dns] [info] cbelmer.duckduckgo.com ["use-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] beta.duckduckgo.com
+[mx-fingerprint] [dns] [info] beta.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] aue-jhamilton1.duckduckgo.com
+[txt-fingerprint] [dns] [info] chrome.duckduckgo.com ["\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\""]
+[dns-saas-service-detection] [dns] [info] devcpu1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] boop.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devcpu2.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] deep.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] blog.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] cbelmer.duckduckgo.com
+[caa-fingerprint] [dns] [info] cclarke.duckduckgo.com
+[caa-fingerprint] [dns] [info] caine.duckduckgo.com
+[caa-fingerprint] [dns] [info] brs-jpereira1.duckduckgo.com
+[caa-fingerprint] [dns] [info] bastion.duckduckgo.com
+[caa-fingerprint] [dns] [info] avianasanchez.duckduckgo.com
+[caa-fingerprint] [dns] [info] autodiscover.mailer.duckduckgo.com
+[caa-fingerprint] [dns] [info] autodiscover.duckduckgo.com
+[caa-fingerprint] [dns] [info] brs-bastion1.duckduckgo.com
+[caa-fingerprint] [dns] [info] controller.netp.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devcpu3.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] chrome.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection] [dns] [info] devcpu4.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] beta.duckduckgo.com ["letsencrypt.org","digicert.com"]
+[caa-fingerprint] [dns] [info] cbolin.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] dave.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] bhall.duckduckgo.com
+[caa-fingerprint] [dns] [info] chat.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] davidg.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] aue-kshannon1.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] chrome.duckduckgo.com
+[mx-fingerprint] [dns] [info] chrome.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] crm2.duckduckgo.com
+[caa-fingerprint] [dns] [info] daniele.duckduckgo.com
+[caa-fingerprint] [dns] [info] bslayter.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] chrome.duckduckgo.com ["ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com."]
+[caa-fingerprint] [dns] [info] cobol.duckduckgo.com
+[caa-fingerprint] [dns] [info] charmston.duckduckgo.com
+[caa-fingerprint] [dns] [info] daffy.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting20.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting14.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting13.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting11.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting16.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting23.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting12.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting21.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting19.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting22.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting25.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting18.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting10.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] dbp-staging.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting15.duckduckgo.com ["use-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] deep.duckduckgo.com
+[mx-fingerprint] [dns] [info] deep.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] devtesting2.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] davidg.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] deep.duckduckgo.com ["ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com."]
+[dns-saas-service-detection] [dns] [info] devtesting17.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting24.duckduckgo.com ["use-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] deep.duckduckgo.com ["\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\""]
+[caa-fingerprint] [dns] [info] dave.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting4.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting26.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] deep.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection] [dns] [info] devtesting3.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting7.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] dev-sync-use.duckduckgo.com
+[caa-fingerprint] [dns] [info] dbp.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting12.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting14.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting21.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting13.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting11.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting10.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] devtesting5.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting8.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting9.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting6.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] dub-admin.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] devtesting27.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting15.duckduckgo.com
+[caa-fingerprint] [dns] [info] devcpu1.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting16.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting20.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting19.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting17.duckduckgo.com
+[caa-fingerprint] [dns] [info] devcpu3.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting1.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting18.duckduckgo.com
+[caa-fingerprint] [dns] [info] devcpu4.duckduckgo.com
+[caa-fingerprint] [dns] [info] devcpu2.duckduckgo.com
+[caa-fingerprint] [dns] [info] devtesting25.duckduckgo.com
+[txt-fingerprint] [dns] [info] duckduckbot.duckduckgo.com ["\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\""]
+[dns-saas-service-detection] [dns] [info] email.mailer.duckduckgo.com ["mailgun.org"]
+[dns-saas-service-detection] [dns] [info] duckduckbot.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] dub.duckduckgo.com ["use-github1.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] emanuele.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting22.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] dvigliotti.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting23.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eric.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting2.duckduckgo.com
+[caa-fingerprint] [dns] [info] duckduckbot-10.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-ibebbington1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] duckduckgo.com ["dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net."]
+[dns-saas-service-detection] [dns] [info] eun-cmccarthyluddy1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] devtesting6.duckduckgo.com
+[txt-fingerprint] [dns] [info] duckduckgo.com ["\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\""]
+[caa-fingerprint] [dns] [info] duckduckbot-7.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-ffaccin1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-cbarreiro1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-fcappelli1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-dreymendez1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] email.mailer.duckduckgo.com ["\"8f7088gv5932jxw9lwwd1b6ttx2pw2ds\"","\"google-site-verification=FIGVOKZm6lQFDBJaiC2DdwvBy8TInunoGCt-1gnL4PA\"","\"v=spf1 include:_spf.mailgun.org include:_spf.eu.mailgun.org -all\""]
+[caa-fingerprint] [dns] [info] email.duckduckgo.com
+[caa-fingerprint] [dns] [info] duckduckbot-9.duckduckgo.com
+[mx-fingerprint] [dns] [info] email.mailer.duckduckgo.com ["10 mxa.mailgun.org.","10 mxb.mailgun.org."]
+[caa-fingerprint] [dns] [info] duckduckbot-5.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] email.mailer.duckduckgo.com ["ns-133.awsdns-16.com.","ns-1482.awsdns-57.org.","ns-1614.awsdns-09.co.uk.","ns-586.awsdns-09.net."]
+[dns-saas-service-detection] [dns] [info] eun-dvandyke1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] duckduckbot-1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-abrown1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-jlockhart1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] email.mailer.duckduckgo.com ["digicert.com","letsencrypt.org",";"]
+[dns-saas-service-detection] [dns] [info] eun-lneale1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-psmith1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-ffaccin1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] eun-lliverton1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-ogasquez1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-meltuhamy1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-ip-4.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-dvandyke1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-abuliga1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-aispiriants1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-acapatina1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-qnguyen1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-amoreno1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] eun-stardio1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-bmoon1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-cbarreiro1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-dreymendez1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-bszanto1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-ip-3.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-ip-8.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-kmanning1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-login.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-nalcalagarcia1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-agimenez1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-jkingston1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-jleibstein1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-pvanblerk1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-stardio1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-jpbochi1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] eun-psmith1.duckduckgo.com
+[caa-fingerprint] [dns] [info] eun-rob1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-mmatviiv1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-lmattei1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-mweksej1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-atennent1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-adewes1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-sdykman1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-tpatrzykat1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-trydzynski1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-mkaranasou1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-esobula1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] feedback.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-ip-4.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-lamigo1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] go.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] euw-osoriano1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-ip-8.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-daniele1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-dkapusta1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-jpbochi1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-ip-7.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-avianasanchez1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-lmacionczyk1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-davidg1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] euw-sochotnicky1.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-ip-10.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-ip-2.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-kdimla1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] improving.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-lamigo1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] jfrank.duckduckgo.com ["use-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] help.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[dns-saas-service-detection] [dns] [info] jhamilton.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] johnm.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] icons.duckduckgo.com ["external-content.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] facebook.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] jve.duckduckgo.com ["use-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] feedback.duckduckgo.com
+[mx-fingerprint] [dns] [info] facebook.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[mx-fingerprint] [dns] [info] feedback.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] ideas.duckduckgo.com ["discussions.zoho.com"]
+[caa-fingerprint] [dns] [info] euw-mweksej1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] ladamski.duckduckgo.com ["use-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] help.duckduckgo.com
+[mx-fingerprint] [dns] [info] help.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] euw-trydzynski1.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] hosts.duckduckgo.com ["ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com."]
+[dns-saas-service-detection] [dns] [info] kibana-dev.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] euw-mkaranasou1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-mhofstra1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-mspiewak1.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] html.duckduckgo.com ["ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] euw-ngoossens1.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-sdykman1.duckduckgo.com
+[caa-fingerprint] [dns] [info] ff.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[mx-service-detector:Office 365] [dns] [info] i.duckduckgo.com
+[mx-fingerprint] [dns] [info] i.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] karol.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] kibana.duckduckgo.com ["use-login.duckduckgo.com"]
+[mx-service-detector:Office 365] [dns] [info] ff.duckduckgo.com
+[mx-fingerprint] [dns] [info] ff.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[txt-fingerprint] [dns] [info] hosts.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[caa-fingerprint] [dns] [info] i.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection] [dns] [info] logos.duckduckgo.com ["duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] ff.duckduckgo.com ["ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] go.duckduckgo.com
+[caa-fingerprint] [dns] [info] euw-vstashkov1.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] goodies.duckduckgo.com
+[mx-fingerprint] [dns] [info] goodies.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] help.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] improving.duckduckgo.com ["ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com."]
+[caa-fingerprint] [dns] [info] greg.duckduckgo.com
+[caa-fingerprint] [dns] [info] ideas.duckduckgo.com
+[nameserver-fingerprint] [dns] [info] karma.duckduckgo.com ["dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net."]
+[dns-saas-service-detection] [dns] [info] mateusz.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] monitor.duckduckgo.com ["use-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] karma.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[caa-fingerprint] [dns] [info] html.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] jrusso.duckduckgo.com
+[caa-fingerprint] [dns] [info] karol.duckduckgo.com
+[caa-fingerprint] [dns] [info] konrad.duckduckgo.com
+[caa-fingerprint] [dns] [info] ladamski.duckduckgo.com
+[caa-fingerprint] [dns] [info] jleibstein.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] mhofstra.duckduckgo.com ["eun-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] itr-staging.duckduckgo.com
+[txt-fingerprint] [dns] [info] lite.duckduckgo.com ["\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\""]
+[dns-saas-service-detection] [dns] [info] next.duckduckgo.com ["duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] proxy1.duckduckgo.com ["external-content.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] quack.duckduckgo.com ["email.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] jenkins.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] press.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] jhamilton.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] sebastien.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] proxy.duckduckgo.com ["external-content.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] r.duckduckgo.com ["duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] news.duckduckgo.com ["dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] laurel.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] servo.duckduckgo.com ["caine.duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] meme.duckduckgo.com ["dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net."]
+[nameserver-fingerprint] [dns] [info] redirect.duckduckgo.com ["ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com."]
+[caa-fingerprint] [dns] [info] next.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] reports.duckduckgo.com ["dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] proxy2.duckduckgo.com
+[txt-fingerprint] [dns] [info] shop.duckduckgo.com ["\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\""]
+[mx-service-detector:Office 365] [dns] [info] refresh.duckduckgo.com
+[mx-fingerprint] [dns] [info] refresh.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] usc-bslayter1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] rob.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] store.duckduckgo.com ["duckduckgo.com"]
+[nameserver-fingerprint] [dns] [info] r.duckduckgo.com ["dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net."]
+[nameserver-fingerprint] [dns] [info] refresh.duckduckgo.com ["dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] shop.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] start.duckduckgo.com ["dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com."]
+[caa-fingerprint] [dns] [info] proxy-usc-1.duckduckgo.com
+[caa-fingerprint] [dns] [info] proxy3.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] usc-klatzke1.duckduckgo.com ["use-login.duckduckgo.com"]
+[txt-fingerprint] [dns] [info] start.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[txt-fingerprint] [dns] [info] tor.duckduckgo.com ["\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\"","\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\""]
+[caa-fingerprint] [dns] [info] quackdev.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] syntax.duckduckgo.com
+[mx-fingerprint] [dns] [info] syntax.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[dns-saas-service-detection] [dns] [info] use-bkaiser1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] refresh.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] supportus.duckduckgo.com ["dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com.","dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net."]
+[caa-fingerprint] [dns] [info] siaargroup.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting11.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] store.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[mx-service-detector:Office 365] [dns] [info] support.duckduckgo.com
+[mx-fingerprint] [dns] [info] support.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] syntax.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] traffic.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[dns-saas-service-detection] [dns] [info] use-cbelmer1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usc-caine1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usc-ip-1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] tim.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting14.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting15.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usc-bhall1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-ado1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-bkaiser1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting22.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] tor.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[caa-fingerprint] [dns] [info] usc-bastion1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devcpu3.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-devtesting2.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usc-tpeoples1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-dng1-admin.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting20.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-dvigliotti1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usc-ladamski1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-greg1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-devtesting9.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-cclarke1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-eric1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting22.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-dave1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting17.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting10.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting18.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting20.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-jrusso1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting9.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-login.duckduckgo.com ["use-dng1.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] use-searchtests6.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-eric1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-sbegleymiller1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] usw-ashuba1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-devtesting8.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting24.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-dng1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-ip-7.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-ip-10.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-devtesting7.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] use-tstorey1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-maria1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-npinto1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-login.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] usw-vlad1.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-searchtests5.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-mburgert1.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-tim1.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] viktor.duckduckgo.com ["eun-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] zach.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] use-searchtests4.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] usw-jmatthews1.duckduckgo.com ["use-login.duckduckgo.com"]
+[dns-saas-service-detection] [dns] [info] www.duckduckgo.com ["duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usw-ip-5.duckduckgo.com
+[dns-saas-service-detection] [dns] [info] yegg.duckduckgo.com ["use-login.duckduckgo.com"]
+[caa-fingerprint] [dns] [info] usw-ip-7.duckduckgo.com
+[mx-service-detector:Office 365] [dns] [info] watrcoolr.duckduckgo.com
+[mx-fingerprint] [dns] [info] watrcoolr.duckduckgo.com ["0 duckduckgo-com.mail.protection.outlook.com."]
+[caa-fingerprint] [dns] [info] usw-johnm1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-ip-3.duckduckgo.com
+[caa-fingerprint] [dns] [info] use-tstorey1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-ashuba1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-ip-8.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-jmatthews1.duckduckgo.com
+[caa-fingerprint] [dns] [info] usw-ip-4.duckduckgo.com
+[txt-fingerprint] [dns] [info] www.duckduckgo.com ["\"stripe-verification=e508f445dbb94b1ae51f7b48901897714b661f5298da43bb66b224973c8290d4\"","\"MS=ms71454350\"","\"ZOOM_verify_QSjXtfOfRHiY0O9gD5E4Ug\"","\"v=spf1 include:mailer.duckduckgo.com include:amazonses.com include:spf.protection.outlook.com -all\"","\"OSSRH-87525\"","\"bw=IOlfo6xQJX+xewM7+IiPqOSIPtLXKrWoS2RXCTPMmQZc\""]
+[caa-fingerprint] [dns] [info] usw-ip-6.duckduckgo.com
+[caa-fingerprint] [dns] [info] zach.duckduckgo.com
+[caa-fingerprint] [dns] [info] watrcoolr.duckduckgo.com ["digicert.com","letsencrypt.org"]
+[nameserver-fingerprint] [dns] [info] yahoo.duckduckgo.com ["dns1.p05.nsone.net.","dns2.p05.nsone.net.","dns3.p05.nsone.net.","dns4.p05.nsone.net.","ns01.quack-dns.com.","ns02.quack-dns.com.","ns03.quack-dns.com.","ns04.quack-dns.com."]
